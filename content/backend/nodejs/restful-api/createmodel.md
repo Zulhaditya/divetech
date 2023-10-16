@@ -55,4 +55,4 @@ contact Contact @relation(fields: [contact_id], references: [id])
 npx prisma migrate dev
 ```
 
-**Selanjutnya :** [Setup Project](setup.md)
+**Selanjutnya :** [Setup Project](backend/nodejs/restful-api/setup.md)

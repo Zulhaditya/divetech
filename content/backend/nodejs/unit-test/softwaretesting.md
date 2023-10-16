@@ -16,4 +16,4 @@ tags:
 - Unit test dibuat kecil dan cepat, oleh karena itu kode unit test lebih banyak dari kode program aslinya, karena semua skenario pengujian akan dicoba di unit test.
 - Unit test bisa digunakan sebagai cara untuk meningkatkan kualitas kode program kita.
 
-**Selanjutnya :** [Intro Jest](intro.md)
+**Selanjutnya :** [Intro Jest](backend/nodejs/unit-test/intro.md)
