@@ -1,0 +1,35 @@
+---
+title: Response Status
+tags:
+  - express
+---
+
+- Saat kita ingin mengubah HTTP status dari HTTP response yang kita buat, kita bisa menggunakan res.status(code)
+- https://expressjs.com/en/4x/api.html#res.status
+
+```js
+import express from "express";
+import request from "supertest";
+
+const app = express();
+
+app.get("/", (req, res) => {
+  if (req.query.name) {
+    res.status(200);
+    res.send(`Hello ${req.query.name}`);
+  } else {
+    res.status(400).end();
+  }
+});
+
+test("Test Response Status", async () => {
+  let response = await request(app).get("/").query({ name: "Zulhaditya" });
+
+  expect(response.status).toBe(200);
+  expect(response.text).toBe("Hello Zulhaditya");
+  response = await request(app).get("/");
+  expect(response.status).toBe(400);
+});
+```
+
+**Selanjutnya :** [Response Header](responseheader.md)
