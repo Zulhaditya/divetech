@@ -1,5 +1,5 @@
 ---
-title: Condition
+title: Looping
 tags:
   - go
 ---
@@ -23,18 +23,18 @@ package main
 import "fmt"
 
 func main() {
-	perulangan_for()
+    perulangan_for()
 }
 
 // perulangan for
 func perulangan_for() {
-	fmt.Printf("===== Perulangan For =====\n")
+    fmt.Printf("===== Perulangan For =====\n")
 
-	sum := 0
-	for i := 0; i < 10; i++ {
-		sum += i
-	}
-	fmt.Println(sum)
+    sum := 0
+    for i := 0; i < 10; i++ {
+        sum += i
+    }
+    fmt.Println(sum)
 
 }
 ```

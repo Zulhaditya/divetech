@@ -20,9 +20,54 @@ Berikut adalah beberapa cara navigasi pada website ini:
 3. Berinteraksi dengan **Grafik** untuk membuka topik tertentu.
 4. Klik **Hashtag** untuk mengunjungi topik berdasarkan tag.
 
-| List Materi                         | Table of Contents                                                                                                                                                                                                                                                                                                                                                                                                    |
-|:----------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Node.js](/backend/nodejs/index.md) | [Basic](/backend/nodejs/index.md#basic),[NPM](/backend/nodejs/index.md#npm), [Database](/backend/nodejs/index.md#database), [Express](/backend/nodejs/index.md#express), [Logging](/backend/nodejs/index.md#logging), [Mustache](/backend/nodejs/index.md#mustache), [API](/backend/nodejs/index.md#restful-api), [Unit Test](/backend/nodejs/index.md#unit-test), [Validation](/backend/nodejs/index.md#validation) |
-| [Golang](/backend/go/index.md)      | [Basic](/backend/go/index#basic)                                                                                                                                                                                                                                                                                                                                                                                     |
-| Git                                 | _Dalam proses penulisan_                                                                                                                                                                                                                                                                                                                                                                                             |
-| Linux                               | _Dalam proses penulisan_                                                                                                                                                                                                                                                                                                                                                                                             |
+# Materi
+
+---
+
+## Node.js
+
+- [Pengenalan](/backend/nodejs/index.md)
+
+- [Basic](/backend/nodejs/index.md#basic)
+
+- [NPM](/backend/nodejs/index.md#npm)
+
+- [Database](/backend/nodejs/index.md#database)
+
+- [Express](/backend/nodejs/index.md#express)
+
+- [Logging](/backend/nodejs/index.md#logging)
+
+- [Mustache](/backend/nodejs/index.md#mustache)
+
+- [API](/backend/nodejs/index.md#restful-api)
+
+- [Unit Test](/backend/nodejs/index.md#unit-test)
+
+- [Validation](/backend/nodejs/index.md#validation)
+
+---
+
+## Golang
+
+- [Pengenalan](/backend/go/index#basic)
+
+- [Basic](/backend/go/basic/intro)
+
+- [Setup](/backend/go/basic/setup)
+
+- [Syntax](/backend/go/basic/syntax)
+
+- [Comment](/backend/go/basic/comment)
+
+- [Variable](/backend/go/basic/variable)
+
+- [Tipe data basic](/backend/go/basic/datatypebasic)
+
+- [Tipe data composite](/backend/go/basic/datatypecomposite)
+
+- [Looping](/backend/go/basic/looping)
+
+- [Condition](/backend/go/basic/condition)
+
+- [Range](/backend/go/basic/range)

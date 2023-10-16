@@ -17,39 +17,37 @@ package main
 import "fmt"
 
 func main() {
-	nums := []int{2, 3, 4}
-	sum := 0
+    nums := []int{2, 3, 4}
+    sum := 0
 
-	for _, num := range nums {
-		sum += num
-	}
+    for _, num := range nums {
+        sum += num
+    }
 
-	fmt.Println("hasil penjumlahan:", sum)
+    fmt.Println("hasil penjumlahan:", sum)
 
-	for i, num := range nums {
-		if num == 4 {
-  		fmt.Println("index:", i)
-		}
-	}
+    for i, num := range nums {
+        if num == 4 {
+          fmt.Println("index:", i)
+        }
+    }
 
-	kvs := map[string]string{"a": "apple", "b": "banana"}
-	for k, v := range kvs {
-		fmt.Printf("%s -> %s\n", k, v)
-	}
+    kvs := map[string]string{"a": "apple", "b": "banana"}
+    for k, v := range kvs {
+        fmt.Printf("%s -> %s\n", k, v)
+    }
 
-	pegawai := map[string]string{"nama": "aditya", "alamat": "jogja"}
-	for nama, alamat := range pegawai {
-		fmt.Printf("%s : %s\n", nama, alamat)
-	}
+    pegawai := map[string]string{"nama": "aditya", "alamat": "jogja"}
+    for nama, alamat := range pegawai {
+        fmt.Printf("%s : %s\n", nama, alamat)
+    }
 
-	for k := range kvs {
-		fmt.Println("key:", k)
-	}
+    for k := range kvs {
+        fmt.Println("key:", k)
+    }
 
-	for i, c := range "halo" {
-		fmt.Println(i, c)
-	}
+    for i, c := range "halo" {
+        fmt.Println(i, c)
+    }
 }
 ```
-
-**Selanjutnya** : [Errors](/backend/go/basic/errors.md)
