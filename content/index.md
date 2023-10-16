@@ -6,8 +6,6 @@ tags:
   - linux
 ---
 
-![[dive.gif]]
-
 # Welcome
 
 > Website ini berisi _notes_ dan _dokumentasi_ yang saya pelajari dari berbagai resource baik itu dari course, YouTube, artikel, serta beberapa buku terkait pemrograman. Tujuan website ini sebagai _second brain_ untuk mengingat suatu konsep dan memperdalam pemahaman khususnya di bidang pemrograman dan teknologi.
