@@ -50,7 +50,4 @@ console.info(person[1])
 console.info(person[2])
 ```
 
-- [ ] **Lanjutkan tutorial TypeScript**
-      Link: https://youtu.be/C_C64faSO4c?t=3006
-
 **Selanjutnya** : [Any](/backend/typescript/any.md)
