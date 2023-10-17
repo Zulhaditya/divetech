@@ -46,7 +46,4 @@ npx tsc
 }
 ```
 
-- [ ] **Lanjutkan tutorial TypeScript di menit 31.00**.
-      Link: https://youtu.be/C_C64faSO4c?t=1874
-
 **Selanjutnya** : [Tipe Data Primitif](/backend/typescript/dataprimitif.md)

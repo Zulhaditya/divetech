@@ -3,4 +3,4 @@ title:
 tags:
 ---
 
-**Selanjutnya** : [Title](/backend/go/basic/)
+**Selanjutnya** : [Title](/backend/typescript/example.md)
