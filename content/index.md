@@ -48,6 +48,14 @@ Berikut adalah beberapa cara navigasi pada website ini:
 
 ---
 
+## TypeScript
+
+- [Pengenalan](/backend/typescript/intro.md)
+
+- [Setup](/backend/typescript/setupnode.md)
+
+---
+
 ## Golang
 
 - [Pengenalan](/backend/go/index#basic)
