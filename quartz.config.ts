@@ -3,13 +3,13 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "divetech 🥽",
+    pageTitle: "Innovatinesia",
     enableSPA: true,
     enablePopovers: false,
     analytics: {
       provider: "plausible",
     },
-    baseUrl: "zulhaditya.netlify.app",
+    baseUrl: "zulhaditya.vercel.app",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "published",
     theme: {
