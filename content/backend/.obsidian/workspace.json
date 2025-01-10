@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "2a93012a65faa234",
+    "type": "split",
+    "children": [
+      {
+        "id": "97885cbbd8b6d0a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc60aa413d749d39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nodejs/unit-test/onlyfunction.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "onlyfunction"
+            }
+          },
+          {
+            "id": "9679b75b7c836c9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "crypto/Hello, Innovatinesia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hello, Innovatinesia"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c4dbcca15ac86238",
+    "type": "split",
+    "children": [
+      {
+        "id": "9cf51178d27c92c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "077f422f8422b4db",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e422cd7382a483c5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5a8002b4b65f5fdb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2497656e042cefc0",
+    "type": "split",
+    "children": [
+      {
+        "id": "d04662467a41ddbd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3e6221906722828",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "crypto/Hello, Innovatinesia.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Hello, Innovatinesia"
+            }
+          },
+          {
+            "id": "559a470d75b86328",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "crypto/Hello, Innovatinesia.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Hello, Innovatinesia"
+            }
+          },
+          {
+            "id": "a106c13528c4ef3d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5383df573bef7b75",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "crypto/Hello, Innovatinesia.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Hello, Innovatinesia"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9679b75b7c836c9e",
+  "lastOpenFiles": [
+    "crypto/image-crypto/candle.jpg",
+    "crypto/Hello, Innovatinesia.md",
+    "crypto/image-crypto",
+    "nodejs/unit-test/onlyfunction.md",
+    "nodejs/unit-test/arraymatchers.md",
+    "nodejs/unit-test/codecoverage.md",
+    "nodejs/restful-api/createmodel.md",
+    "nodejs/restful-api/create.md",
+    "nodejs/restful-api/contactmanagement.md",
+    "nodejs/restful-api/contactapispec.md",
+    "nodejs/restful-api/addressmanagement.md",
+    "nodejs/restful-api/addressapispec.md",
+    "nodejs/mustache/list.md",
+    "nodejs/mustache/invertedsections.md",
+    "nodejs/mustache/intro.md",
+    "nodejs/mustache/comment.md",
+    "nodejs/logging/logginglib.md",
+    "nodejs/express/router.md",
+    "nodejs/express/responselainnya.md",
+    "nodejs/express/signedcookie.md",
+    "nodejs/express/requesturl.md",
+    "nodejs/express/request.md",
+    "nodejs/express/unittest.md",
+    "nodejs/express/basicrouting.md",
+    "nodejs/express/application.md",
+    "nodejs/basic/globalasync.md",
+    "nodejs/basic/dns.md"
+  ]
+}
