@@ -3,13 +3,13 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Innovatinesia",
+    pageTitle: "Divetech",
     enableSPA: true,
     enablePopovers: false,
     analytics: {
       provider: "plausible",
     },
-    baseUrl: "zulhaditya.vercel.app",
+    baseUrl: "divetech.vercel.app",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "published",
     theme: {
@@ -30,10 +30,10 @@ const config: QuartzConfig = {
           highlight: "rgba(143, 159, 169, 0.15)",
         },
         darkMode: {
-          light: "#1e2030",
-          lightgray: "#2f334d",
+          light: "#141414",
+          lightgray: "#2b2c34",
           gray: "#545c7e",
-          darkgray: "#d4d4d4",
+          darkgray: "#cecece",
           dark: "#ebebec",
           secondary: "#66a9bd",
           tertiary: "#86e1fc",

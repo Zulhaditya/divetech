@@ -3,8 +3,6 @@ title: Home
 tags:
   - nodejs
   - golang
-  - linux
-  - crypto
 ---
 
 # Welcome
@@ -45,14 +43,6 @@ Berikut adalah beberapa cara navigasi pada website ini:
 - [Unit Test](/backend/nodejs/index.md#unit-test)
 
 - [Validation](/backend/nodejs/index.md#validation)
-
----
-
-## TypeScript
-
-- [Pengenalan](/backend/typescript/intro.md)
-
-- [Setup](/backend/typescript/setupnode.md)
 
 ---
 
