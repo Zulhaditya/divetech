@@ -1,8 +1,12 @@
 ---
 title: Home
 tags:
-  - nodejs
-  - golang
+  - basic
+  - database
+  - npm
+  - express
+  - logging
+  - go
 ---
 
 # Welcome
